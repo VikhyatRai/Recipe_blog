@@ -31,7 +31,7 @@ Navigate to the directory where you want to clone the project.
 
 Run the following command to clone the project from the repository:
 
-  git clone (repository-url)
+    git clone (repository-url)
   
 Replace (repository-url) with the actual URL of the project repository.
 
