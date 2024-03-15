@@ -31,7 +31,7 @@ Navigate to the directory where you want to clone the project.
 
 Run the following command to clone the project from the repository:
 
-    git clone (repository-url)
+    git clone <repository-url>
   
 Replace (repository-url) with the actual URL of the project repository.
 
@@ -39,14 +39,14 @@ Install Dependencies:
 
 Navigate into the project directory:
 
-  cd (project-folder)
+    cd (project-folder)
 
 Replace (project-folder) with the name of the folder where the project was cloned.
 
 
 Install the required dependencies using npm (Node Package Manager):
 
-  npm install
+    npm install
 
 Set Up MongoDB:
 
@@ -58,7 +58,7 @@ Start the Server:
 
 Run the following command to start the Node.js server:
 
-  node app.js
+    node app.js
 
 You should see a message indicating that the server is running on a specific port (e.g., "Server is running on port 4000").
 
