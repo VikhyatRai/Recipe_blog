@@ -39,7 +39,7 @@ Install Dependencies:
 
 Navigate into the project directory:
 
-    cd (project-folder)
+    cd <project-folder>
 
 Replace (project-folder) with the name of the folder where the project was cloned.
 
